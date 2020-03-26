@@ -1,7 +1,6 @@
 # country codes list 🇩🇿
 iso Alpha 2 - iso Alpha 3 ===> json file ,like ("iso2":"dz", "iso3":"dza")
 # country-currencies codes list 💵🇩🇿
-# exemple:
 {
         "country": "Algeria",
         "currency_code": "DZD",
